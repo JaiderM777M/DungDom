@@ -10,6 +10,12 @@ Cada personaje usa autoataques los cuales pueden ser a distancia o cuerpo a cuer
 - Oleadas de enemigos con diferentes características.
 - Pantalla de victoria al completar todas las oleadas de enemigos.
 
+## Controles
+- Tecla arriba
+- Tecla abajo
+- Tecla izquierda
+- Tecla derecha
+
 
 ## Requisitos
 - Python 3.12.3
