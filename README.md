@@ -14,6 +14,3 @@ Cada personaje usa autoataques los cuales pueden ser a distancia o cuerpo a cuer
 ## Requisitos
 - Python 3.12.3
 - pygame
-
-## Ejecucion
-Ejecutar main.py con las respectivas librerias instaladas
