@@ -1,4 +1,4 @@
-# Juego de Supervivencia
+# DungDom
 
 ## Descripción
 Este es un juego de supervivencia donde los jugadores deben elegir una clase de personaje y luchar contra oleadas de enemigos diferentes cada vez mas fuertes.
