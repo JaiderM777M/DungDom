@@ -13,3 +13,6 @@ Este es un juego de supervivencia donde los jugadores deben elegir una clase de 
 ## Requisitos
 - Python 3.12.3
 - pygame
+
+## Ejecucion
+Ejecutar main.py con las respectivas librerias instaladas
